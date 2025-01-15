@@ -29,3 +29,12 @@ CINEZONE-Movie Website is a movie website built using **HTML**, **CSS**, and **J
 1. Clone the repository:
    ```bash
    git clone https://github.com/PrajwalJalekar/Cinezone-Movie-Website.git
+
+   ## Demo Video
+
+🎥 **Watch the CINEZONE-Movie Website video:**  
+
+https://github.com/user-attachments/assets/0ca1c162-2d23-44db-a6e9-a737a37069cd
+
+This video showcases the website's features, including the dark mode toggle, responsive design, movie slider, and sidebar functionality.
+
